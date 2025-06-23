@@ -21,5 +21,5 @@ This smart contract (`MyNFT`) is an ERC-721 NFT implementation featuring:
 - `verification.png` - Screenshot of successful contract verification on Etherscan
 
 ## Author
-Gringo | Solidity & Land Law  
-Telegram: [@Andrei_Shapkin](https://t.me/Andrei_Shapkin)
+ Contact: [@Andrei_Shapkin](https://t.me/Andrei_Shapkin)  
+ GitHub: [Gringo-Solidity](https://github.com/Gringo-Solidity)
