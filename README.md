@@ -5,9 +5,9 @@ This smart contract (`MyNFT`) is an ERC-721 NFT implementation featuring:
 - Standard public minting
 - Owner-only withdrawal and Merkle root configuration
 
-✅ Deployed on **Sepolia Testnet**  
-✅ Verified on **Etherscan**  
-✅ Flattened source included
+ Deployed on **Sepolia Testnet**  
+ Verified on **Etherscan**  
+ Flattened source included
 
 ## Contract Info
 - **Name:** MyNFT
@@ -18,6 +18,7 @@ This smart contract (`MyNFT`) is an ERC-721 NFT implementation featuring:
 ## Files
 - `MyNFT_Flattened_22062025.sol` – Full contract source (flattened)
 - `README.md` – Project overview
+- `verification.png` - Screenshot of successful contract verification on Etherscan
 
 ## Author
 Gringo | Solidity & Land Law  
